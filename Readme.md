@@ -1,6 +1,6 @@
 ![](https://github.com/RichterOsint/RichterOsint/blob/main/Project%20X.gif) 
 
-<h1 align="center">Hi 👋, I'm ⋆𝙻𝚘𝚗𝚎𝚠𝚘𝚕𝚏™⋆/RichterOsint</h1>
+<h1 align="center">Hi 👋, I'm RichterOsint</h1>
 
 <h3 align="center">I am dedicated to programming what I imagine and you should in when to upload it</h3>
 
