@@ -14,7 +14,7 @@
 
 - 👯 I'm collaborating with The-Dark-Troopers [https://github.com/The-Dark-Troopers](https://github.com/The-Dark-Troopers)
 
-- 📫 If you want to contact me my number e **+52 444 666 6000**
+- 📫 If you want to contact me my number **+52 444 666 6000**
 
 - 👨‍🎓I am an advisor **Inquiries to take care of your private information <hobby>**
 
