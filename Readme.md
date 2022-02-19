@@ -1,6 +1,6 @@
 ![](https://github.com/RichterOsint/RichterOsint/blob/main/Project%20X.gif) 
 
-<h1 align="center">Hi 👋, I'm RichterOsint</h1>
+<h1 align="center">Hi 👋, I'm Jacket Developer</h1>
 
 <h3 align="center">I am dedicated to programming what I imagine and you should in when to upload it</h3>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richterosint" alt="richterosint" /></a> </p>
 
-- 🔭 I's currently working on [Castlevania New Edition](https://github.com/RichterOsint/Castlevania.git)
+- 🔭 I's currently working on nothing []()
 
 - 🌱 I usually spend training and helping those who need it **Calisthenics**
 
 - 👯 I'm collaborating with The-Dark-Troopers [https://github.com/The-Dark-Troopers](https://github.com/The-Dark-Troopers)
 
-- 📫 If you want to contact me my number **+1 (850) 787-9444**
+- 📫 If you want to contact me my number **+43 650 8888556688**
 
 - 👨‍🎓I am an advisor **Inquiries to take care of your private information <hobby>**
 
