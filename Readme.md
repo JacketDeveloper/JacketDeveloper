@@ -4,9 +4,7 @@
 
 <h3 align="center">I am dedicated to programming what I imagine and you should in when to upload it</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JacketDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="JacketDeveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richterosint" alt="richterosint" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="JacketDeveloper" alt="JacketDeveloper" /></a> </p>
 
 - 🔭 I's currently working on nothing []()
 
