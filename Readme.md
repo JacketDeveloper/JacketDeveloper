@@ -10,8 +10,6 @@
 
 - 🌱 I usually spend training and helping those who need it **Calisthenics**
 
-- 👯 I'm collaborating with The-Dark-Troopers [https://github.com/The-Dark-Troopers](https://github.com/The-Dark-Troopers)
-
 - 📫 If you want to contact me my number **+43 650 8888556688**
 
 - 👨‍🎓I am an advisor **Inquiries to take care of your private information <hobby>**
