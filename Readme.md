@@ -1,4 +1,4 @@
-<center> ![](https://github.com/RichterOsint/RichterOsint/blob/main/Project%20X.gif) </center>
+<h1 align=="center"> ![](https://github.com/RichterOsint/RichterOsint/blob/main/Project%20X.gif) </h1>
 
 <h1 align="center">Hi 👋, I'm Jacket Developer</h1>
 
